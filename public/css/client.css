@@ -1,0 +1,25 @@
+.client{
+	background-color: #f1f1f1;
+    padding: 0.01em 16px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
+
+h1, h2, h3, h4, h5, h6,p {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.order_details {
+    width: auto;
+    background-color: #fff;
+    padding: 8px 12px;
+    border-left: 4px solid #357CA5;
+    word-wrap: break-word;
+    height: 195px;
+}
+
+.end{
+    padding: 38px;
+}
